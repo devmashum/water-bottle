@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "HydroFlow Stainless Steel Water Bottle",
+        "brand": "HydroFlow",
+        "capacity": "750 ml",
+        "color": "Blue",
+        "price": 19.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "AquaWave Glass Water Bottle",
+        "brand": "AquaWave",
+        "capacity": "500 ml",
+        "color": "Clear",
+        "price": 15.99,
+        "in_stock": false,
+        "image_url": "https://example.com/water_bottle2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Thermaluxe Insulated Water Bottle",
+        "brand": "Thermaluxe",
+        "capacity": "1000 ml",
+        "color": "Silver",
+        "price": 24.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "EcoBottle Biodegradable Water Bottle",
+        "brand": "EcoBottle",
+        "capacity": "500 ml",
+        "color": "Green",
+        "price": 12.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SportsPro Hydration Bottle",
+        "brand": "SportsPro",
+        "capacity": "800 ml",
+        "color": "Red",
+        "price": 21.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PureH2O Filtered Water Bottle",
+        "brand": "PureH2O",
+        "capacity": "600 ml",
+        "color": "Purple",
+        "price": 29.99,
+        "in_stock": false,
+        "image_url": "https://example.com/water_bottle6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Alpine Adventure Collapsible Bottle",
+        "brand": "Alpine Adventure",
+        "capacity": "750 ml",
+        "color": "Orange",
+        "price": 17.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Tritan Flip-Top Water Bottle",
+        "brand": "Tritan",
+        "capacity": "700 ml",
+        "color": "Yellow",
+        "price": 14.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "SleekSteel Vacuum-Insulated Bottle",
+        "brand": "SleekSteel",
+        "capacity": "900 ml",
+        "color": "Black",
+        "price": 32.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "GymMaster Protein Shaker Bottle",
+        "brand": "GymMaster",
+        "capacity": "600 ml",
+        "color": "Pink",
+        "price": 9.99,
+        "in_stock": true,
+        "image_url": "https://example.com/water_bottle10.jpg"
+    }
+]
